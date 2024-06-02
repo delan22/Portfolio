@@ -8,5 +8,5 @@ Data analytic @ Expertice france -Iraq
 - Big impact project1!
 - Big impact project2!
 
-- ### projects
+### projects
 - HERENES STUDY RESEARCH ON REPRODUCTIVE HEALTH SYSTEM IN NORTH EAST SYRIA
