@@ -10,3 +10,5 @@ Data analytic @ Expertice france -Iraq
 
 ### projects
 - HERENES STUDY RESEARCH ON REPRODUCTIVE HEALTH SYSTEM IN NORTH EAST SYRIA
+### Publication
+- https://www.sciencedirect.com/science/article/pii/S187705091831980X
